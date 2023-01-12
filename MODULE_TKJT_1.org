@@ -20,3 +20,14 @@ Modul ini dibuat untuk sebagai materi yang diajarkan pada kelas TJKT di SMK.
 **** Memahami jenis-jenis profesi kewirausahaan (job-profile dan technopreneurship, personal branding serta peluang usaha di bidang Teknik Jaringan Komputer dan Telekomunikasi)
 **** membangun vision dan passion dengan melaksanakan pembelajaran berbasis proyek nyata sebagai simulasi proyek kewirausahaan.
 
+** Pengantar
+*** Membangun sebuah perangakat TJKT
+**** Membuat sebuah perangat radio
+***** Bahan
+|  no | Nama       | Kuantitas |
+| --- | ----       |         - |
+|   1 | Resistor   |         1 |
+|   2 | Capacitor  |         2 |
+|   3 | inductor   |         3 |
+|   4 | transistor |         1 |
+|  -- | -          |         - |
