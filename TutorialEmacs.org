@@ -1,0 +1,24 @@
+#+title: Tutorial Emacs
+#+Author: Aziz Faozi
+#+email: diamonrose144@gmail.com
+
+
+* Pengantar
+Ini sekadar tutorial untuk emacs
+
+** HotKey dalam emacs
+| command     | deskripsi                |
+| C - x C - f | untuk membuka file       |
+| C - x C - s | untuk mengesave file     |
+| C - x k     | untuk kill screen        |
+| C - x C - c | menutup emacs            |
+| C - x 2     | Split verticals          |
+| C - x 3     | Split horizontal         |
+| C - x o     | Pindah screen            |
+| C - x 1     | Untuk memfokuskan screen |
+
+
+
+* Notes
+Untuk menggenerate PDF anda harus menginstall pdflatex. Jika anda menggunakan windows anda bisa menginstallnya di
+[[https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe][Link TextLive]]
