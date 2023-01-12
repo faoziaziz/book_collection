@@ -1,0 +1,22 @@
+
+#+TITLE: MODULE E Teknik Jaringan Komputer Dan Telekomunikasi
+#+AUTHOR: Aziz Amerul Faozi
+
+* Pengantar
+Modul ini dibuat untuk sebagai materi yang diajarkan pada kelas TJKT di SMK.
+
+** Desain Kurikulum
+*** Memahami proses bisnis pada bidang teknik komputer dan telekomunikasi.
+**** constumer handling
+**** perencanaan
+**** analisis kebutuhan pelanggan
+**** strategi implementasi (instalasi, konfigurasi, monitoring)
+**** pelayanan pada pelanggan sebagai implementasi penerapan budaya mutu
+*** Memahami perkembangan teknologi pada perangkat teknik jaringan komputer dan telekomunikasi
+**** Pengetahuan tentang 5G, Microware Link, IPV6, teknologi serat optik terkini.
+**** Pengetahuan IoT, Data Center, Cloud Computing dan Information Security
+**** Pengetahuan tengan isu-isu implementasi teknologi jaringan dan telekomunikasi antara lain keamanan informasi, penetrasi internet.
+*** Profesi dan Kewirausahaan (job-profile  dan technopreneur) di bidang teknik jaringan komputer dan telekomunikasi
+**** Memahami jenis-jenis profesi kewirausahaan (job-profile dan technopreneurship, personal branding serta peluang usaha di bidang Teknik Jaringan Komputer dan Telekomunikasi)
+**** membangun vision dan passion dengan melaksanakan pembelajaran berbasis proyek nyata sebagai simulasi proyek kewirausahaan.
+
