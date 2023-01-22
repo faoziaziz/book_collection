@@ -19,6 +19,15 @@ Modul ini dibuat untuk sebagai materi yang diajarkan pada kelas TJKT di SMK.
 *** Profesi dan Kewirausahaan (job-profile  dan technopreneur) di bidang teknik jaringan komputer dan telekomunikasi
 **** Memahami jenis-jenis profesi kewirausahaan (job-profile dan technopreneurship, personal branding serta peluang usaha di bidang Teknik Jaringan Komputer dan Telekomunikasi)
 **** membangun vision dan passion dengan melaksanakan pembelajaran berbasis proyek nyata sebagai simulasi proyek kewirausahaan.
+*** Keselamatan dan Kesehatan Kerja Lingkungan Hidup (K3LH) dan budaya kerja industri
+**** Pada akhir fase E peserta didik mampu menerapkan K3LH dan budaya kerja industri, antara lain: praktik- praktik kerja yang aman, bahaya-bahaya di tempat kerja, prosedur- prosedur dalam keadaan darurat, dan penerapan budaya kerja industri (Ringkas, Rapi, Resik, Rawat, Rajin), termasuk pencegahan kecelakaan kerja di tempat tinggi dan prosedur kerja di tempat tinggi (pemanjatan).
+
+*** Dasar-dasar teknik jaringan komputer dan telekomunikasi
+**** Pada akhir fase E peserta didik mampu memahami tentang jenis alat ukur dan penggunaannya dalam pemeliharaan jaringan komputer dan sistem telekomunikasi.
+*** Media dan jaringan telekomunikasi
+**** Pada akhir fase E peserta didik mampu memahami prinsip dasar sistem IPV4/IPV6, TCP IP, Networking Service, Sistem Keamanan Jaringan Telekomunikasi, Sistem Seluler, Sistem Microwave, Sistem VSAT IP, Sistem Optik, dan Sistem WLAN.
+*** Penggunaan Alat Ukur
+**** Pada akhir fase E peserta didik mampu menggunakan alat ukur, termasuk pemeliharaan alat ukur untuk seluruh jaringan komputer dan sistem telekomunikasi.
 
 ** Pengantar
 *** Membangun sebuah perangakat TJKT

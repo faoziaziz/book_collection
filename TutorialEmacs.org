@@ -18,7 +18,7 @@ Ini sekadar tutorial untuk emacs
 | C - x 1     | Untuk memfokuskan screen |
 
 
-
 * Notes
 Untuk menggenerate PDF anda harus menginstall pdflatex. Jika anda menggunakan windows anda bisa menginstallnya di
-[[https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe][Link TextLive]]
+[[https://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe][Link TextLive]], kalian kemudian bisa publish dengan command C-c C-e l p
+
